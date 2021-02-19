@@ -44,11 +44,30 @@ sudo make install
 
 ## VTK
 
-The version of the VTK is `9.0.1`. You can download it from the [website](https://vtk.org/download/) and use the commands blew to install:
+The version of the VTK is `8.2.0`. You can download it from the [website](https://vtk.org/download/) and use the commands blew to install:
 
 ```bash
-tar -xzvf VTK-9.0.1.tar.gz
-cd VTK-9.0.1/
+tar -xzvf VTK-8.2.0.zip
+cd VTK-8.2.0/
+```
+
+Before compiling, you need to edit the file `IO/Geometry/vtkOBJReader.cxx`. In line 859, add the following code:
+
+```C++
+// Here we turn off texturing and/or normals
+if (n_tcoord_pts == 0)
+{
+    hasTCoords = false;
+}
+if (n_normal_pts == 0)
+{
+    hasNormals = false;
+}
+```
+
+Continue to build:
+
+```bash
 mkdir build && cd build
 cmake ..
 make -j4
@@ -67,3 +86,11 @@ make
 ```
 
 And you can get a exectuable file `mesh_sampling` in the `build` directory. You can use `mesh_sampling -h` for help. I've provided the `mesh_sampling`. But there are some problems with the options of the command. The option `-n_samples` seems cannot work.
+
+## Example
+
+CAD model and sampled point cloud :
+
+<img src="../images/cad.png" width="300px"/>
+
+<img src="../images/ground_truth.png" width="300px"/>
