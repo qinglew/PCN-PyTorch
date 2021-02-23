@@ -1,0 +1,271 @@
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/media/rico/BACKUP/Dataset/ShapeNetForPCN/02958343/167ec61fc29df46460593c98e3e63028/model.obj'...
+Progress:   0.00%  (  0.0008 sec |   0.0008 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.8401 sec |   0.8393 sec) Done, loading materials and images...
+Progress:  33.33%    (  1.0985 sec |   1.0977 sec) Done, building geometries (verts:49443 faces:89741 materials: 79 smoothgroups:0) ...
+Progress:  66.67%    (  3.4071 sec |   3.4063 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  3.4072 sec |   3.4072 sec) Finished importing: '/media/rico/BACKUP/Dataset/ShapeNetForPCN/02958343/167ec61fc29df46460593c98e3e63028/model.obj'
+Progress: 100.00%Progress: 100.00%
+
+Fra:0 Mem:179.97M (0.00M, Peak 179.98M) | Time:00:00.00 | Preparing Scene data
+Fra:0 Mem:329.52M (0.00M, Peak 329.89M) | Time:00:00.09 | Preparing Scene data
+Fra:0 Mem:329.52M (0.00M, Peak 329.89M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:0 Mem:329.52M (0.00M, Peak 329.89M) | Time:00:00.09 | Raytree.. preparing
+Fra:0 Mem:341.84M (0.00M, Peak 341.84M) | Time:00:00.09 | Raytree.. building
+Fra:0 Mem:341.14M (0.00M, Peak 360.38M) | Time:00:00.22 | Raytree finished
+Fra:0 Mem:341.14M (0.00M, Peak 360.38M) | Time:00:00.22 | Creating Environment maps
+Fra:0 Mem:341.14M (0.00M, Peak 360.38M) | Time:00:00.22 | Caching Point Densities
+Fra:0 Mem:341.14M (0.00M, Peak 360.38M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:0 Mem:341.14M (0.00M, Peak 360.38M) | Time:00:00.22 | Loading voxel datasets
+Fra:0 Mem:341.14M (0.00M, Peak 360.38M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:0 Mem:341.15M (0.00M, Peak 360.38M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:0 Mem:341.15M (0.00M, Peak 360.38M) | Time:00:00.22 | Volume preprocessing
+Fra:0 Mem:341.15M (0.00M, Peak 360.38M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:0 Mem:341.15M (0.00M, Peak 360.38M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:0 Mem:343.08M (0.00M, Peak 360.38M) | Time:00:00.22 | Scene, Part 6-6
+Fra:0 Mem:343.01M (0.00M, Peak 360.38M) | Time:00:00.22 | Scene, Part 5-6
+Fra:0 Mem:342.82M (0.00M, Peak 360.38M) | Time:00:00.22 | Scene, Part 3-6
+Fra:0 Mem:349.62M (0.00M, Peak 360.38M) | Time:00:00.24 | Scene, Part 4-6
+Fra:0 Mem:348.73M (0.00M, Peak 360.38M) | Time:00:00.24 | Scene, Part 2-6
+Fra:0 Mem:348.44M (0.00M, Peak 360.38M) | Time:00:00.25 | Scene, Part 1-6
+Fra:0 Mem:186.83M (0.00M, Peak 360.38M) | Time:00:00.26 | Compositing
+Fra:0 Mem:186.83M (0.00M, Peak 360.38M) | Time:00:00.26 | Compositing | Determining resolution
+Fra:0 Mem:186.83M (0.00M, Peak 360.38M) | Time:00:00.26 | Compositing | Initializing execution
+Fra:0 Mem:187.27M (0.00M, Peak 360.38M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:0 Mem:187.27M (0.00M, Peak 360.38M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:0 Mem:187.27M (0.00M, Peak 360.38M) | Time:00:00.26 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/0.exr
+Fra:0 Mem:187.19M (0.00M, Peak 360.38M) | Time:00:00.26 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.27 (Saving: 00:00.00)
+
+Fra:1 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Preparing Scene data
+Fra:1 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:1 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Raytree.. preparing
+Fra:1 Mem:348.90M (0.00M, Peak 348.90M) | Time:00:00.10 | Raytree.. building
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Raytree finished
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Creating Environment maps
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Caching Point Densities
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Loading voxel datasets
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Volume preprocessing
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:1 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:1 Mem:350.16M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 6-6
+Fra:1 Mem:350.08M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 5-6
+Fra:1 Mem:349.59M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 3-6
+Fra:1 Mem:349.29M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 4-6
+Fra:1 Mem:348.74M (0.00M, Peak 367.46M) | Time:00:00.24 | Scene, Part 2-6
+Fra:1 Mem:348.46M (0.00M, Peak 367.46M) | Time:00:00.25 | Scene, Part 1-6
+Fra:1 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing
+Fra:1 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Determining resolution
+Fra:1 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Initializing execution
+Fra:1 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:1 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:1 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/1.exr
+Fra:1 Mem:187.19M (0.00M, Peak 367.46M) | Time:00:00.26 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.26 (Saving: 00:00.00)
+
+Fra:2 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Preparing Scene data
+Fra:2 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:2 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Raytree.. preparing
+Fra:2 Mem:348.90M (0.00M, Peak 348.90M) | Time:00:00.10 | Raytree.. building
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Raytree finished
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Creating Environment maps
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Caching Point Densities
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Loading voxel datasets
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Volume preprocessing
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:2 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:2 Mem:350.16M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 6-6
+Fra:2 Mem:350.08M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 5-6
+Fra:2 Mem:349.59M (0.00M, Peak 367.46M) | Time:00:00.23 | Scene, Part 3-6
+Fra:2 Mem:349.29M (0.00M, Peak 367.46M) | Time:00:00.23 | Scene, Part 4-6
+Fra:2 Mem:348.86M (0.00M, Peak 367.46M) | Time:00:00.24 | Scene, Part 1-6
+Fra:2 Mem:348.44M (0.00M, Peak 367.46M) | Time:00:00.25 | Scene, Part 2-6
+Fra:2 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing
+Fra:2 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Determining resolution
+Fra:2 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Initializing execution
+Fra:2 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:2 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:2 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/2.exr
+Fra:2 Mem:187.19M (0.00M, Peak 367.46M) | Time:00:00.26 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.26 (Saving: 00:00.00)
+
+Fra:3 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Preparing Scene data
+Fra:3 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:3 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Raytree.. preparing
+Fra:3 Mem:348.90M (0.00M, Peak 348.90M) | Time:00:00.10 | Raytree.. building
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Raytree finished
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Creating Environment maps
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Caching Point Densities
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Loading voxel datasets
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Volume preprocessing
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:3 Mem:348.24M (0.00M, Peak 367.47M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:3 Mem:350.79M (0.00M, Peak 367.47M) | Time:00:00.22 | Scene, Part 6-6
+Fra:3 Mem:350.77M (0.00M, Peak 367.47M) | Time:00:00.22 | Scene, Part 5-6
+Fra:3 Mem:349.43M (0.00M, Peak 367.47M) | Time:00:00.22 | Scene, Part 3-6
+Fra:3 Mem:349.27M (0.00M, Peak 367.47M) | Time:00:00.22 | Scene, Part 4-6
+Fra:3 Mem:348.87M (0.00M, Peak 367.47M) | Time:00:00.24 | Scene, Part 2-6
+Fra:3 Mem:348.44M (0.00M, Peak 367.47M) | Time:00:00.25 | Scene, Part 1-6
+Fra:3 Mem:186.83M (0.00M, Peak 367.47M) | Time:00:00.27 | Compositing
+Fra:3 Mem:186.83M (0.00M, Peak 367.47M) | Time:00:00.27 | Compositing | Determining resolution
+Fra:3 Mem:186.83M (0.00M, Peak 367.47M) | Time:00:00.27 | Compositing | Initializing execution
+Fra:3 Mem:187.27M (0.00M, Peak 367.47M) | Time:00:00.27 | Compositing | Tile 1-1
+Fra:3 Mem:187.27M (0.00M, Peak 367.47M) | Time:00:00.27 | Compositing | Tile 1-1
+Fra:3 Mem:187.27M (0.00M, Peak 367.47M) | Time:00:00.27 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/3.exr
+Fra:3 Mem:187.19M (0.00M, Peak 367.47M) | Time:00:00.27 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.27 (Saving: 00:00.00)
+
+Fra:4 Mem:187.03M (0.00M, Peak 187.04M) | Time:00:00.00 | Preparing Scene data
+Fra:4 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Preparing Scene data
+Fra:4 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:4 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Raytree.. preparing
+Fra:4 Mem:348.90M (0.00M, Peak 348.90M) | Time:00:00.10 | Raytree.. building
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Raytree finished
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Creating Environment maps
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Caching Point Densities
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Loading voxel datasets
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Volume preprocessing
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:4 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:4 Mem:350.16M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 6-6
+Fra:4 Mem:350.08M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 5-6
+Fra:4 Mem:349.71M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 3-6
+Fra:4 Mem:349.17M (0.00M, Peak 367.46M) | Time:00:00.23 | Scene, Part 4-6
+Fra:4 Mem:348.89M (0.00M, Peak 367.46M) | Time:00:00.24 | Scene, Part 2-6
+Fra:4 Mem:348.46M (0.00M, Peak 367.46M) | Time:00:00.25 | Scene, Part 1-6
+Fra:4 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing
+Fra:4 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Determining resolution
+Fra:4 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Initializing execution
+Fra:4 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Tile 1-1
+Fra:4 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Tile 1-1
+Fra:4 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/4.exr
+Fra:4 Mem:187.19M (0.00M, Peak 367.46M) | Time:00:00.27 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.27 (Saving: 00:00.00)
+
+Fra:5 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Preparing Scene data
+Fra:5 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:5 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Raytree.. preparing
+Fra:5 Mem:348.90M (0.00M, Peak 348.90M) | Time:00:00.09 | Raytree.. building
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Raytree finished
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Creating Environment maps
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Caching Point Densities
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Loading voxel datasets
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Volume preprocessing
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:5 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:5 Mem:350.16M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 6-6
+Fra:5 Mem:350.08M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 5-6
+Fra:5 Mem:349.71M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 3-6
+Fra:5 Mem:349.17M (0.00M, Peak 367.46M) | Time:00:00.23 | Scene, Part 4-6
+Fra:5 Mem:348.89M (0.00M, Peak 367.46M) | Time:00:00.23 | Scene, Part 2-6
+Fra:5 Mem:348.46M (0.00M, Peak 367.46M) | Time:00:00.25 | Scene, Part 1-6
+Fra:5 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing
+Fra:5 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Determining resolution
+Fra:5 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Initializing execution
+Fra:5 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:5 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:5 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/5.exr
+Fra:5 Mem:187.19M (0.00M, Peak 367.46M) | Time:00:00.26 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.27 (Saving: 00:00.00)
+
+Fra:6 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Preparing Scene data
+Fra:6 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:6 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Raytree.. preparing
+Fra:6 Mem:348.90M (0.00M, Peak 348.90M) | Time:00:00.10 | Raytree.. building
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Raytree finished
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Creating Environment maps
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Caching Point Densities
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Loading voxel datasets
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Volume preprocessing
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:6 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:6 Mem:350.16M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 6-6
+Fra:6 Mem:350.08M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 5-6
+Fra:6 Mem:349.71M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 3-6
+Fra:6 Mem:349.29M (0.00M, Peak 367.46M) | Time:00:00.23 | Scene, Part 4-6
+Fra:6 Mem:348.89M (0.00M, Peak 367.46M) | Time:00:00.24 | Scene, Part 2-6
+Fra:6 Mem:348.46M (0.00M, Peak 367.46M) | Time:00:00.25 | Scene, Part 1-6
+Fra:6 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing
+Fra:6 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Determining resolution
+Fra:6 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Initializing execution
+Fra:6 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Tile 1-1
+Fra:6 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | Tile 1-1
+Fra:6 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.27 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/6.exr
+Fra:6 Mem:187.19M (0.00M, Peak 367.46M) | Time:00:00.27 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.27 (Saving: 00:00.00)
+
+Fra:7 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Preparing Scene data
+Fra:7 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Creating Shadowbuffers
+Fra:7 Mem:336.58M (0.00M, Peak 336.95M) | Time:00:00.09 | Raytree.. preparing
+Fra:7 Mem:348.90M (0.00M, Peak 348.90M) | Time:00:00.10 | Raytree.. building
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Raytree finished
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Creating Environment maps
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Caching Point Densities
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Loading voxel datasets
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Volume preprocessing
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:7 Mem:348.22M (0.00M, Peak 367.46M) | Time:00:00.22 | Sce: Scene Ve:93605 Fa:89708 La:1
+Fra:7 Mem:350.16M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 6-6
+Fra:7 Mem:350.08M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 5-6
+Fra:7 Mem:349.71M (0.00M, Peak 367.46M) | Time:00:00.22 | Scene, Part 3-6
+Fra:7 Mem:349.29M (0.00M, Peak 367.46M) | Time:00:00.23 | Scene, Part 4-6
+Fra:7 Mem:348.87M (0.00M, Peak 367.46M) | Time:00:00.24 | Scene, Part 2-6
+Fra:7 Mem:348.46M (0.00M, Peak 367.46M) | Time:00:00.25 | Scene, Part 1-6
+Fra:7 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing
+Fra:7 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Determining resolution
+Fra:7 Mem:186.83M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Initializing execution
+Fra:7 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:7 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | Tile 1-1
+Fra:7 Mem:187.27M (0.00M, Peak 367.46M) | Time:00:00.26 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/167ec61fc29df46460593c98e3e63028/7.exr
+Fra:7 Mem:187.19M (0.00M, Peak 367.46M) | Time:00:00.26 | Sce: Scene Ve:93605 Fa:89708 La:1
+Saved: 'buffer.png'
+ Time: 00:00.26 (Saving: 00:00.00)
+
+ved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/6d7e8fa77d384c07e4d0922154a19a3f/7.exr
+Fra:7 Mem:203.64M (0.00M, Peak 569.00M) | Time:00:00.42 | Sce: Scene Ve:150090 Fa:132950 La:1
+Saved: 'buffer.png'
+ Time: 00:00.42 (Saving: 00:00.00)
+
+k 1088.52M) | Time:00:02.09 | Compositing | Tile 1-1
+Fra:7 Mem:365.11M (0.00M, Peak 1088.52M) | Time:00:02.09 | Compositing | Tile 1-1
+Fra:7 Mem:365.11M (0.00M, Peak 1088.52M) | Time:00:02.09 | Compositing | De-initializing execution
+Saved: /home/rico/Workspace/Dataset/partials/partial21/exr/02958343/b8dd449dd857e7f19b58a6529594c9d/7.exr
+Fra:7 Mem:365.03M (0.00M, Peak 1088.52M) | Time:00:02.09 | Sce: Scene Ve:621636 Fa:702574 La:1
+Saved: 'buffer.png'
+ Time: 00:02.09 (Saving: 00:00.00)
+
