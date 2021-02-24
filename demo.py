@@ -17,7 +17,7 @@ if __name__ == '__main__':
                             gt_path='/home/rico/Workspace/Dataset/shapenetpcn/gt', split='test')
 
     network = AutoEncoder()
-    network.load_state_dict(torch.load('log/epoch2_alpha1.0.pth'))
+    network.load_state_dict(torch.load('log/lowest_loss.pth'))
     network = network.eval()
 
     partial_input, _, dense_gt = test_dataset[random.randint(0, len(test_dataset))]  # (2048, 3), (1024, 3), (16384, 3)
