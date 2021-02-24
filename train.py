@@ -51,12 +51,12 @@ for epoch in range(1, args.epochs + 1):
     total_loss, iter_count = 0, 0
     for i, data in enumerate(train_dataloader, 1):
         partial_input, coarse_gt, dense_gt = data
-        
         partial_input = partial_input.to(DEVICE)
         coarse_gt = coarse_gt.to(DEVICE)
         dense_gt = dense_gt.to(DEVICE)
-        
         partial_input = partial_input.permute(0, 2, 1)
+
+        optimizer.zero_grad()
 
         v, y_coarse, y_detail = network(partial_input)
 
@@ -86,7 +86,6 @@ for epoch in range(1, args.epochs + 1):
             partial_input = partial_input.to(DEVICE)
             coarse_gt = coarse_gt.to(DEVICE)
             dense_gt = dense_gt.to(DEVICE)
-
             partial_input = partial_input.permute(0, 2, 1)
             
             v, y_coarse, y_detail = network(partial_input)
@@ -97,6 +96,7 @@ for epoch in range(1, args.epochs + 1):
             loss = loss_d1(coarse_gt, y_coarse) + args.alpha * loss_d2(dense_gt, y_detail)
             total_loss += loss.item()
             iter_count += 1
+
         mean_loss = total_loss / iter_count
         print("\033[31mValidation epoch {}/{}, loss is {}\033[0m".format(epoch, args.epochs, mean_loss))
 
