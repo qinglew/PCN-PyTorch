@@ -85,7 +85,7 @@ for epoch in range(1, args.epochs + 1):
             
             partial_input = partial_input.to(DEVICE)
             coarse_gt = coarse_gt.to(DEVICE)
-            dense_gt = dense_gt(DEVICE)
+            dense_gt = dense_gt.to(DEVICE)
 
             partial_input = partial_input.permute(0, 2, 1)
             
