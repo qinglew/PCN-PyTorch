@@ -1,5 +1,4 @@
 import random
-import argparse
 import torch
 
 from open3d import *
