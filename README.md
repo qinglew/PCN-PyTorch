@@ -12,32 +12,8 @@ This is implementation of PCN——Point Completion Network in pytorch. PCN is a
 
 ## Reconstruction
 
-### alpha = 0.1
-
-Time | Loss
--- | --
-1 | 0.1406116538370649
-2 | 0.13831139862951305
-3 | 0.13889332777924007
-4 | 0.13953917752951384
-5 | 0.14458834902486867
-
-### alpha = 0.5
-Time | Loss
--- | --
-1 | 0.08169769392245345
-2 | 0.08213998491151465
-3 | 0.0818117022410863
-4 | 0.08218497120671803
-5 | 0.08180649588919348
-
-### alpha = 1.0
-Time | Loss
--- | --
-1 | 0.08289035016463862
-2 | 0.08557101111445162
-3 | 0.08746305232246716
-4 | 0.08545542767064439
-5 | 0.08654008086563812
+I just use the category of car to train, evaluation and test the model. All of the data is created by myself. By running the evaluation script `evaluation.py`, we can get a average cd loss `0.0097` on the test split.
 
 ## Examples
+
+![demos](images/examples.png)

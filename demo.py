@@ -16,7 +16,7 @@ if __name__ == '__main__':
                             gt_path='/home/rico/Workspace/Dataset/shapenetpcn/gt', split='test')
 
     network = AutoEncoder()
-    network.load_state_dict(torch.load('log/epoch25_lr1e-3_alpha0.5.pth'))
+    network.load_state_dict(torch.load('log/lowest_loss.pth'))
     network = network.eval()
 
     partial_input, _, dense_gt = test_dataset[random.randint(0, len(test_dataset))]  # (2048, 3), (1024, 3), (16384, 3)
@@ -39,6 +39,3 @@ if __name__ == '__main__':
     dense_pred = output_tensor.squeeze(0).permute(1, 0).cpu().detach().numpy()
     show_point_cloud(dense_pred)
     print("reconstructed point cloud has {} points".format(len(dense_pred)))
-    print(partial_input.numpy())
-    print()
-    print(dense_pred)
