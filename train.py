@@ -62,8 +62,8 @@ def train(params):
 
     log(log_fd, 'Loading Data...')
 
-    train_dataset = ShapeNet('data/PCN', 'train', 'all')
-    val_dataset = ShapeNet('data/PCN', 'valid', 'all')
+    train_dataset = ShapeNet('data/PCN', 'train', params.category)
+    val_dataset = ShapeNet('data/PCN', 'valid', params.category)
 
     train_dataloader = DataLoader(train_dataset, batch_size=params.batch_size, shuffle=True, num_workers=params.num_workers)
     val_dataloader = DataLoader(val_dataset, batch_size=params.batch_size, shuffle=False, num_workers=params.num_workers)
