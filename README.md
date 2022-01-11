@@ -70,9 +70,11 @@ I trained the model on Nvidia GPU 1080Ti with L1 Chamfer Distance for 400 epochs
 
 ### Quantitative Result
 
+The threshold for F-Score is 0.01.
+
 #### Seen Categories:
 
-Category | L1_CD(1e-3) | L2_CD(1e-4) | EMD(1e-3) | FScore-0.01(%)
+Category | L1_CD(1e-3) | L2_CD(1e-4) | EMD(1e-3) | F-Score(%)
 -- | -- | -- | -- | --
 Airplane | 6.0028 | 1.7323 | 10.5922 | 86.2954
 Cabinet | 11.2092 | 4.7351 | 27.1505 | 61.6697
@@ -86,7 +88,7 @@ Vessel | 10.1603 | 4.2766 | 17.9761 | 66.6521
 
 #### Unseen Categories
 
-Category | L1_CD(1e-3) | L2_CD(1e-4) | EMD(1e-3) | F-score(th=0.01)(%)
+Category | L1_CD(1e-3) | L2_CD(1e-4) | EMD(1e-3) | F-Score(%)
 -- | -- | -- | -- | --
 Bus       | 10.5110 | 4.4648  | 17.0274 | 66.9774
 Bed       | 24.9320 | 32.4809 | 42.7974 | 32.2265
