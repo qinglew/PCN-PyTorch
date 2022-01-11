@@ -83,7 +83,7 @@ def train(params):
         model.load_state_dict(torch.load(params.ckpt_path))
 
     # training
-    best_cd_l1 = 0.0
+    best_cd_l1 = 1e8
     best_epoch_l1 = -1
     train_step, val_step = 0, 0
     for epoch in range(0, params.epochs + 1):
