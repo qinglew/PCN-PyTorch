@@ -86,7 +86,7 @@ def train(params):
     best_cd_l1 = 1e8
     best_epoch_l1 = -1
     train_step, val_step = 0, 0
-    for epoch in range(0, params.epochs + 1):
+    for epoch in range(1, params.epochs + 1):
         # hyperparameter alpha
         if train_step < 10000:
             alpha = 0.01
