@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-Please reference `render` and `sample` to create your own dataset. Alse, we decompressed all `.lmdb` data from [PCN](https://drive.google.com/drive/folders/1M_lJN14Ac1RtPtEQxNlCV9e8pom3U6Pa)  data into `.ply` data. Here is the shared link: [Google Drive]().
+Please reference `render` and `sample` to create your own dataset. Alse, we decompressed all `.lmdb` data from [PCN](https://drive.google.com/drive/folders/1M_lJN14Ac1RtPtEQxNlCV9e8pom3U6Pa) data into `.ply` data which has smaller volume 8.1G. Here is the shared link: [Google Drive](https://drive.google.com/file/d/1OvvRyx02-C_DkzYiJ5stpin0mnXydHQ7/view?usp=sharing).
 
 ## Training
 
