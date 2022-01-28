@@ -56,7 +56,7 @@ def prepare_logger(params):
 
 
 def train(params):
-    torch.autograd.set_detect_anomaly(True)
+    torch.backends.cudnn.benchmark = True
 
     ckpt_dir, epochs_dir, log_fd, train_writer, val_writer = prepare_logger(params)
 
