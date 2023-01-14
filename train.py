@@ -92,7 +92,7 @@ def train(params):
             alpha = 0.01
         elif train_step < 20000:
             alpha = 0.1
-        elif epoch < 50000:
+        elif train_step < 50000:
             alpha = 0.5
         else:
             alpha = 1.0
